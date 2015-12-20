@@ -1,14 +1,15 @@
-## ZIP IT!
+# ZIP IT!
 
-#Overview
+###Overview
 An application that allows users to easily zip folders.
+
 1. Provide a name for the zip file
 2. Provide what folder to zip
-3. Provide where the zip folder should be placed in
+3. Provide where the zip folder should be saved in
 4. Submit
 
-#Requirements
+###Requirements
 JDK 1.8
 
-#Build and Run
+###Build and Run
 mvn clean install exec:java -Dexec.mainClass="ZipIt"
