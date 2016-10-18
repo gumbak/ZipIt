@@ -9,7 +9,7 @@ An application that allows users to easily zip folders.
 4. Submit
 
 ###Requirements
-JDK 1.8
+JDK 1.8  
 Maven 3.3
 
 ###Build and Run
