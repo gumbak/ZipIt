@@ -10,6 +10,7 @@ An application that allows users to easily zip folders.
 
 ###Requirements
 JDK 1.8
+Maven 3.3
 
 ###Build and Run
 mvn clean install exec:java -Dexec.mainClass="ZipIt"
